@@ -10,7 +10,8 @@ Screenshot
 
 Links
 
-    Frontend Mentor Solution: ()
+    Frontend Mentor Solution: https://www.frontendmentor.io/solutions/qr-code-component-responsive-html-and-css---flexbox-and-media-queries--t2QnK-xk
+    
     Livesite : https://qr-code-component-c72x.vercel.app/
 
 Process
@@ -79,7 +80,8 @@ Capture d'écran
 
 Liens
 
-    Solution Frontend Mentor : ()
+    Solution Frontend Mentor : https://www.frontendmentor.io/solutions/qr-code-component-responsive-html-and-css---flexbox-and-media-queries--t2QnK-xk
+
     Livesite : https://qr-code-component-c72x.vercel.app/
 
 
