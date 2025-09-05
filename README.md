@@ -3,12 +3,15 @@
 Frontend Mentor - QR Code Component
 
 This solution responds to the QR code component challenge on Frontend Mentor. This project helped me improve my skills in HTML and CSS by recreating a professional and responsive design.
+
 Screenshot
+
+![alt text](media/snap.png)
+
 Links
 
-    Frontend Mentor Solution: (add your URL here)
-
-    Live Site: (add your URL here)
+    Frontend Mentor Solution: ()
+    Livesite ()
 
 Process
 Built With
@@ -76,9 +79,9 @@ Capture d'écran
 
 Liens
 
-    Solution Frontend Mentor : 
+    Solution Frontend Mentor : ()
+    Livesite ()
 
-    Site déployé en ligne : 
 
 Processus
 Construit avec
