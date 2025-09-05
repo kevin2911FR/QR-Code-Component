@@ -11,7 +11,7 @@ Screenshot
 Links
 
     Frontend Mentor Solution: ()
-    Livesite ()
+    Livesite : https://qr-code-component-c72x.vercel.app/
 
 Process
 Built With
@@ -80,7 +80,7 @@ Capture d'écran
 Liens
 
     Solution Frontend Mentor : ()
-    Livesite ()
+    Livesite : https://qr-code-component-c72x.vercel.app/
 
 
 Processus
